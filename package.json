@@ -1,5 +1,5 @@
 {
-  "name": "helloworld-package",
+  "name": "@nadtakanfuthoem/helloworld-package",
   "version": "1.0.1",
   "scripts": {
     "build": "tsc",
