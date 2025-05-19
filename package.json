@@ -10,7 +10,8 @@
     "test": "vitest run",
     "dev": "vitest",
     "local-release": "changeset version && changeset publish",
-    "prepublishOnly": "npm run ci"
+    "prepublishOnly": "npm run ci",
+    "changeset": "npx changeset"
   },
   "author": "Nadtakan Futhoem",
   "description": "",
